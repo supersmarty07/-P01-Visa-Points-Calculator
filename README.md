@@ -1,1 +1,2 @@
-# helloWorld
+This program calculates PR Points for applicants of Permanent Residency. Abacus smartly understands your response and calculates your points based on all the answers you provide. 
+Simply, the calculator interacts through the details you provide that includes your name, date of birth, place you live in and so on. Abacus is designed to ask for only those details which are essential to estimate your EOI points (based on the criteria provided by Immigration Department of Australia).
